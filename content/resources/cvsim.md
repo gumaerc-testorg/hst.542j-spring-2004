@@ -11,8 +11,12 @@ description: 'Handout containing an overview of the Cardiovascular Simulator. Th
   Cardiovascular Pathophysiology courses in the Harvard-M.I.T. Division of Health
   Sciences and Technology. The computer simulation is implemented on the M.I.T. Project
   Athena student computing network.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/ca97693e23faa23d5fe5b5787438e2bb_cvsim.pdf
+file: /media/courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/ca97693e23faa23d5fe5b5787438e2bb_cvsim.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Related Resources
+parent_type: CourseSection
 resourcetype: Document
 title: cvsim.pdf
 uid: ca97693e-23fa-a23d-5fe5-b5787438e2bb

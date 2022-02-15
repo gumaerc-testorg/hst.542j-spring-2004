@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Solutions to quiz problems.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/2c858434fa5f2d4c9204485f984dfaab_quiz2_solutions.pdf
+file: /media/courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/2c858434fa5f2d4c9204485f984dfaab_quiz2_solutions.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: quiz2_solutions.pdf
 uid: 2c858434-fa5f-2d4c-9204-485f984dfaab
