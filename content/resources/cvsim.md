@@ -17,6 +17,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 62712a2b-7130-20f0-4a5f-8c201feb219f
 resourcetype: Document
 title: cvsim.pdf
 uid: ca97693e-23fa-a23d-5fe5-b5787438e2bb

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 39a50931-cbb3-6472-ddf0-8e7bd972e31e
 resourcetype: Document
 title: intro_case_study.pdf
 uid: a5bd483a-d90d-e6f8-628a-5d8a7414991d

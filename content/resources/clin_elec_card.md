@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 39a50931-cbb3-6472-ddf0-8e7bd972e31e
 resourcetype: Document
 title: clin_elec_card.pdf
 uid: e467f4ca-fcb3-c31b-6ed8-5b4a8a2f069c
