@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the basic information about the course, which includes
+  required text, quizzes, laboratory exercises, laboratory reports, grades and course
+  ethics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

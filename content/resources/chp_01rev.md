@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/e2055742c079f247056a818e62da1db6_chp_01rev.jpg
+file: /courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/e2055742c079f247056a818e62da1db6_chp_01rev.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

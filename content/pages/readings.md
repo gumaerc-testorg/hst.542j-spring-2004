@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes course notes. These serve as the primary reading
+  material for this course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -35,7 +37,7 @@ Lec 1
 Introduction and Case Presentation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/intro_case_study))
+({{% resource_link a5bd483a-d90d-e6f8-628a-5d8a7414991d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,9 +59,9 @@ _Lecture 4
 _Cardiovascular Physiology 3: Modeling the Intact System
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction: The Functional Anatomy of the Cardiovascular System ([PDF]({{< baseurl >}}/resources/function_anatomy))  
+Introduction: The Functional Anatomy of the Cardiovascular System ({{% resource_link 120c27f3-c7fd-3102-b243-268cf28310f7 "PDF" %}})  
   
-Cardiovascular Mechanics I, II, III ([PDF - 1.9 MB]({{< baseurl >}}/resources/cardio_mech))  
+Cardiovascular Mechanics I, II, III ({{% resource_link 939ee5de-bbb5-d5de-4ebf-86ebd010b0b7 "PDF - 1.9 MB" %}})  
   
 Costanzo, pp. 101-115, 126-139, 139-144.
 {{< tdclose >}}
@@ -79,7 +81,7 @@ _Lecture 6
 _Cardiovascular Physiology 5: The Physical Basis of Electrocardiography
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/car_elec_phy))  
+({{% resource_link 8a80de9e-7e1b-ce01-2ef4-f3905394443a "PDF" %}})  
   
 Costanzo, pp. 115-126.
 {{< tdclose >}}
@@ -93,7 +95,7 @@ Lec 7
 Cardiovascular Physiology 6: Clinical Electrocardiography and Arrhythmias
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.6 MB]({{< baseurl >}}/resources/clin_elec_card))
+({{% resource_link e467f4ca-fcb3-c31b-6ed8-5b4a8a2f069c "PDF - 1.6 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +107,7 @@ Lec 8-9
 Cardiovascular Physiology 7: Control and Integration in the Cardiovascular System
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.9 MB]({{< baseurl >}}/resources/cont_and_intg))  
+({{% resource_link 96a68fbd-d4a5-2acb-2532-7f6c92b73373 "PDF - 1.9 MB" %}})  
   
 Costanzo, pp. 144-166.
 {{< tdclose >}}
@@ -123,7 +125,7 @@ Lec 10-14
 Physiological Fluid Mechanics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/fluid_mechanics))
+({{% resource_link 5384df8b-0795-c292-af40-7d5cfb4a3106 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +149,7 @@ Lec 20-23
 Renal Physiology
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.5 MB]({{< baseurl >}}/resources/renal_physiology))  
+({{% resource_link 507c4db8-ac1c-32dc-e2fa-0db3119865d0 "PDF - 1.5 MB" %}})  
   
 Costanzo, chapters 6, 7.
 {{< tdclose >}}
