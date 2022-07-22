@@ -5,6 +5,7 @@ file: /courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps7_solutions.pdf
 uid: a33b38cd-3519-7ea5-cdec-a35a8667a01b
 ---
 Solutions to assigned homework problems.
-

@@ -7,6 +7,7 @@ file: /courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: car_elec_phy.pdf
 uid: 8a80de9e-7e1b-ce01-2ef4-f3905394443a
 ---
 Course notes were written by Dr. Roger Mark. These serve as the primary reading material for this course. Any references referred to within each set of notes are listed at the end of the file.
-

@@ -12,10 +12,10 @@ image_metadata:
   credit: ''
   image-alt: Schematic cutaway of human heart and torso.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: hst-542js04-th.jpg
 uid: 223ea2c1-1247-fc04-1111-3861881dc7a1
 ---
 New image Upload
-
