@@ -4,6 +4,7 @@ description: The following course notes were written by Dr. Roger Mark. These se
   as the primary reading material for this course. Any references referred to within
   each set of notes are listed at the end of the file.
 file: /courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/96a68fbdd4a52acb25327f6c92b73373_cont_and_intg.pdf
+file_size: 1941442
 file_type: application/pdf
 learning_resource_types:
 - Readings
