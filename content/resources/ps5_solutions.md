@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to assigned homework problems.
-file: /ol-ocw-studio-app/courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/b3060f36e03826bd4d059c15d875a3c6_ps5_solutions.pdf
+file: /courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/b3060f36e03826bd4d059c15d875a3c6_ps5_solutions.pdf
 file_size: 109578
 file_type: application/pdf
 learning_resource_types:
