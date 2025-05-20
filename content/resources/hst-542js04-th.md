@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/223ea2c11247fc0411113861881dc7a1_hst-542js04-th.jpg
+file: /courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/223ea2c11247fc0411113861881dc7a1_hst-542js04-th.jpg
 file_size: 5503
 file_type: image/jpeg
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: The following course notes were written by Dr. Roger Mark. These serve
   as the primary reading material for this course. Any references referred to within
   each set of notes are listed at the end of the file.
-file: /ol-ocw-studio-app/courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/5384df8b0795c292af407d5cfb4a3106_fluid_mechanics.pdf
+file: /courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/5384df8b0795c292af407d5cfb4a3106_fluid_mechanics.pdf
 file_size: 616180
 file_type: application/pdf
 learning_resource_types:
