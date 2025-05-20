@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to quiz problems.
-file: /ol-ocw-studio-app/courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/2c858434fa5f2d4c9204485f984dfaab_quiz2_solutions.pdf
+file: /courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/2c858434fa5f2d4c9204485f984dfaab_quiz2_solutions.pdf
 file_size: 860232
 file_type: application/pdf
 learning_resource_types:
